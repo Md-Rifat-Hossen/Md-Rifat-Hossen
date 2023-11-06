@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rifat-hossen&label=Profile%20views&color=0e75b6&style=flat" alt="md-rifat-hossen" /> </p>
-<h4 align="">Assalamu 'alaykum , I'm Md Rifat Hossen.</h4>
+<h4 align=""><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Assalamu+'alaykum+%2C+I'm+Md+Rifat+Hossen." alt="Typing SVG" /></a></h4>
 <hr>
 
 
